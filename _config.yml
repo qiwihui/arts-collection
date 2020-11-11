@@ -1,0 +1,8 @@
+title: ARTS 挑战收集
+description: qiwihui
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-mentions
